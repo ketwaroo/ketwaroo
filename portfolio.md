@@ -4,7 +4,7 @@ This is propably the least impressive porfolio page you'll ever see, so let's ca
 
 ## What I do
 
-Professionally, and in a nutshell, I've been coding in PHP and wring HTML,JS,CSS for the past 15+ years. I don't like making things complicated and have a hard time singing my own praises. I have frequently been told that that my work is "vastly beyond expectations", which means either I'm routinely understimated or I'm really good at what I do.
+Professionally, and in a nutshell, I've been coding in PHP and wring HTML,JS,CSS for the past 15+ years. I don't like making things complicated and have a hard time singing my own praises. I have frequently been told that that my work is "vastly beyond expectations" and "extremely impressive", which means either I'm routinely understimated or I'm really good at what I do.
 
 ## What I've done
 
