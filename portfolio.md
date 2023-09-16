@@ -11,10 +11,10 @@ Professionally, and in a nutshell, I've been coding in PHP and wring HTML,JS,CSS
 #### The more impresive stuff that's still in the public domain
 
  * https://data.cms.gov
-   * I had a major hand in the API portion of this site. We had to work under alot of contraints but still managed to deliver something that worked performantly. A lot of the work I did was on the backend. It's not the showy but you wouldn't have anything usable on the frontend without it.
+   * I had a major hand in the API portion of this site. We had to work under alot of contraints but still managed to deliver something that worked performantly. A lot of the work I did was on the backend, API and devops, as well as admin panel access for end users. It's not shiny/glittery stuff but you wouldn't have anything usable on the frontend without it.
  * https://nccourts.gov
    * Another government website. Also a huge backend effort with a lot of interconnected systems.
 
 ## What I can do
 
-That's up to what the job requires. My core belief is that a programmer should not be limited by what they already know or are certified in.
+That's up to what the job requires. My core belief is that a programmer should not be limited by what they already know or are certified in. If the documentation exists, I can make it happen.
