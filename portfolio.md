@@ -8,7 +8,7 @@ Professionally, and in a nutshell, I've been coding in PHP and wring HTML,JS,CSS
 
 ## What I've done
 
-#### The more impresive stuff that's still in the public domain
+#### The more impressive stuff that's still in the public domain
 
  * https://data.cms.gov
    * I had a major hand in the API portion of this site. We had to work under alot of contraints but still managed to deliver something that worked performantly. A lot of the work I did was on the backend, API and devops, as well as admin panel access for end users. It's not shiny/glittery stuff but you wouldn't have anything usable on the frontend without it.
